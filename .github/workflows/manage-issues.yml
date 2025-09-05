@@ -45,6 +45,3 @@ jobs:
               issue_number: context.payload.issue.number,
               lock_reason: "resolved"
             });
-              issue_number: context.payload.issue.number,
-              lock_reason: "resolved"
-            });
